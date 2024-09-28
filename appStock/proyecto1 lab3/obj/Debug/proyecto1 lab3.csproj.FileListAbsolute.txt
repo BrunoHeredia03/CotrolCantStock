@@ -1,0 +1,21 @@
+C:\Users\Usuario\source\repos\proyecto1 lab3\proyecto1 lab3\bin\Debug\proyecto1 lab3.exe.config
+C:\Users\Usuario\source\repos\proyecto1 lab3\proyecto1 lab3\bin\Debug\proyecto1 lab3.exe
+C:\Users\Usuario\source\repos\proyecto1 lab3\proyecto1 lab3\bin\Debug\proyecto1 lab3.pdb
+C:\Users\Usuario\source\repos\proyecto1 lab3\proyecto1 lab3\obj\Debug\proyecto1 lab3.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\proyecto1 lab3\proyecto1 lab3\obj\Debug\proyecto1_lab3.Form1.resources
+C:\Users\Usuario\source\repos\proyecto1 lab3\proyecto1 lab3\obj\Debug\proyecto1_lab3.Properties.Resources.resources
+C:\Users\Usuario\source\repos\proyecto1 lab3\proyecto1 lab3\obj\Debug\proyecto1 lab3.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\proyecto1 lab3\proyecto1 lab3\obj\Debug\proyecto1 lab3.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\proyecto1 lab3\proyecto1 lab3\obj\Debug\proyecto1 lab3.exe
+C:\Users\Usuario\source\repos\proyecto1 lab3\proyecto1 lab3\obj\Debug\proyecto1 lab3.pdb
+D:\Usuario\Desktop\proyecto1 lab3\bin\Debug\BdStock\DbStock1.accdb
+D:\Usuario\Desktop\proyecto1 lab3\bin\Debug\proyecto1 lab3.exe.config
+D:\Usuario\Desktop\proyecto1 lab3\bin\Debug\proyecto1 lab3.exe
+D:\Usuario\Desktop\proyecto1 lab3\bin\Debug\proyecto1 lab3.pdb
+D:\Usuario\Desktop\proyecto1 lab3\obj\Debug\proyecto1 lab3.csproj.AssemblyReference.cache
+D:\Usuario\Desktop\proyecto1 lab3\obj\Debug\proyecto1_lab3.Form1.resources
+D:\Usuario\Desktop\proyecto1 lab3\obj\Debug\proyecto1_lab3.Properties.Resources.resources
+D:\Usuario\Desktop\proyecto1 lab3\obj\Debug\proyecto1 lab3.csproj.GenerateResource.cache
+D:\Usuario\Desktop\proyecto1 lab3\obj\Debug\proyecto1 lab3.csproj.CoreCompileInputs.cache
+D:\Usuario\Desktop\proyecto1 lab3\obj\Debug\proyecto1 lab3.exe
+D:\Usuario\Desktop\proyecto1 lab3\obj\Debug\proyecto1 lab3.pdb
